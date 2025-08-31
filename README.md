@@ -1,1 +1,1 @@
-# ps-terratest
+# ps
